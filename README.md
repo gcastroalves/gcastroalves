@@ -63,3 +63,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
     src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail"
   />
 </a>
+
+![Snake animation](https://github.com/gcastroalves/gcastroalves/blob/output/github-contribution-grid-snake.svg)
+
