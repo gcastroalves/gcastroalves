@@ -1,4 +1,4 @@
-## 👩🏻‍💻 Gabrielle Castro Alves
+## 👩🏻‍💻 Gabrielle De Castro Alves
 
 Me chamo Gabrielle De Castro Alves, tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas pela Estácio. Também possuo formação prática em JavaScript Full Stack pela Generation Brasil, onde desenvolvi aplicações web e projetos focados na prática do desenvolvimento, além de cursos complementares na área. 
 
